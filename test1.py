@@ -1,3 +1,5 @@
 a=1
 b=2
-sum=(a+b)
+c=3
+sum d=(a+b+c)
+pring d (Total count)
